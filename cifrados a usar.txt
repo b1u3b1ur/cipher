@@ -1,0 +1,3 @@
+https://keepcoding.io/blog-frr/tutorial-cifrado-cesar-en-python
+https://onboardbase-com.translate.goog/blog/aes-encryption-decryption/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
+https://www-askpython-com.translate.goog/python/examples/rsa-algorithm-in-python?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
